@@ -16,7 +16,7 @@
   
 }
 .navbr-bg{
-  background-color: orange;
+  background-color: #ff8500;
 }
 .navbr .nav-par1{
   font-size: 25px;
@@ -792,8 +792,11 @@ margin-top: -80px;
   .navbr{
     height: 65px;
   }
+  .hero{
+    position: relative;
+  }
   .footer-end{
-  bottom: -30px;
+  bottom: 15px;
   justify-content: start;
   gap: 10px;
   }
